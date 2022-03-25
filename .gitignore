@@ -1,0 +1,5 @@
+venv/
+bin/
+.idea/
+.buildozer/
+python-for-android.pdf
